@@ -17,5 +17,3 @@ This project analyzes retail sales performance using Power BI.
 - Power BI
 - DAX
 - Data Visualization
-
-## Dashboard Preview
